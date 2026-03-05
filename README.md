@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Developer Profile
 
-📛 **Full Name:** Nguyen Thanh Dat  
+📛 **Full Name:** Nguyễn Thành Đạt
 🎂 **Birthday:** 04/08/2003  
 📍 **Location:** Vietnam  
 💼 **Role:** Frontend React Developer  

@@ -43,7 +43,7 @@
 
 - 🛒 **E-Commerce Website (Frontend)**  
   Built with React & Ant Design.  
-  Features: Product listing, search & filter, cart UI, pagination, responsive design, API integration.
+  Features:CRUD interface, search & filter, cart UI, pagination, responsive design, API integration.
 
 - 🏥 **Medical Appointment Booking UI (Frontend)**  
   Built with React & Ant Design  

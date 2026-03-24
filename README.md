@@ -46,31 +46,31 @@
 
 🔗 https://github.com/NguyenThanhDat01/Portfolio
 
-Built with React + TypeScript
-Responsive (Mobile & Desktop)
-Dark / Light mode
-Multi-language (i18n)
-Animation (AOS)
+- Built with React + TypeScript
+- Responsive (Mobile & Desktop)
+- Dark / Light mode
+- Multi-language (i18n)
+- Animation (AOS)
 
 🏥 Medical Booking UI
 
 🔗 https://github.com/NguyenThanhDat01/Frontend-medicare_booking_app
 
-Built with React + Ant Design 
-Doctor listing & booking UI
-Form validation
-Role-based UI
-API integration
+- Built with React + Ant Design 
+- Doctor listing & booking UI
+- Form validation
+- Role-based UI
+- API integration
 
 🔐 Key Nexus System (Frontend)
 
 🔗 https://github.com/nthuwng/key-nexus-fe
 
-Built with React
-Authentication UI
-Dashboard interface
-API integration
-Clean UI & responsiv
+- Built with React
+- Authentication UI
+- Dashboard interface
+- API integration
+- Clean UI & responsive
 
 ---
 

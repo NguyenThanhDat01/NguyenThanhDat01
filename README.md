@@ -43,6 +43,7 @@
 ## 🔥 Featured Projects
 
 🧑‍💻 Personal Portfolio
+
 🔗 https://github.com/NguyenThanhDat01/Portfolio
 
 Built with React + TypeScript
@@ -52,6 +53,7 @@ Multi-language (i18n)
 Animation (AOS)
 
 🏥 Medical Booking UI
+
 🔗 https://github.com/NguyenThanhDat01/Frontend-medicare_booking_app
 
 Built with React + Ant Design
@@ -61,6 +63,7 @@ Role-based UI
 API integration
 
 🔐 Key Nexus System (Frontend)
+
 🔗 https://github.com/nthuwng/key-nexus-fe
 
 Built with React

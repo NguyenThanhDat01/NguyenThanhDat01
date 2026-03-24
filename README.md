@@ -56,7 +56,7 @@ Animation (AOS)
 
 🔗 https://github.com/NguyenThanhDat01/Frontend-medicare_booking_app
 
-Built with React + Ant Design \n
+Built with React + Ant Design 
 Doctor listing & booking UI
 Form validation
 Role-based UI

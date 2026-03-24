@@ -42,17 +42,33 @@
 
 ## 🔥 Featured Projects
 
-- 🛒 **E-Commerce Website (Frontend)**  
-  Built with React & Ant Design.  
-  Features:CRUD interface, search & filter, cart UI, pagination, responsive design, API integration.
+🧑‍💻 Personal Portfolio
+🔗 https://github.com/NguyenThanhDat01/Portfolio
 
-- 🏥 **Medical Appointment Booking UI (Frontend)**  
-  Built with React & Ant Design  
-  Features: Doctor listing, date & time slot selection, booking form validation, role-based UI rendering,API integration.
+Built with React + TypeScript
+Responsive (Mobile & Desktop)
+Dark / Light mode
+Multi-language (i18n)
+Animation (AOS)
 
-- 🧑‍💼 **Admin Dashboard UI (Frontend)**  
-  Built with React + Ant Design.  
-  Features: CRUD interface, table management, modal forms, role-based UI control, API integration.
+🏥 Medical Booking UI
+🔗 https://github.com/NguyenThanhDat01/Frontend-medicare_booking_app
+
+Built with React + Ant Design
+Doctor listing & booking UI
+Form validation
+Role-based UI
+API integration
+
+🔐 Key Nexus System (Frontend)
+🔗 https://github.com/nthuwng/key-nexus-fe
+
+Built with React
+Authentication UI
+Dashboard interface
+API integration
+Clean UI & responsiv
+
 ---
 
 ## 📫 Contact Me
